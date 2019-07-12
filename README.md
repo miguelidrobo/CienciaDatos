@@ -1,2 +1,2 @@
 # CienciaDatos
-Repositorio academico Ciencia de Datos
+Repositorio académico Ciencia de Datos
